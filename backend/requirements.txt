@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langgraph
+transformers
+torch
+mysql-connector-python
+pydantic
